@@ -1,0 +1,8 @@
+[project]
+name = "wetter-app"
+version = "0.1.0"
+description = "Wetter-App v2: Wetter und Reisetipps über die Open-Meteo API"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.34.2",
+]

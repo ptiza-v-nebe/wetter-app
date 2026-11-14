@@ -1,0 +1,8 @@
+[project]
+name = "wetter-app-v1"
+version = "0.1.0"
+description = "Wetter-App v1: der einfachste Wetter-Abruf"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.34.2",
+]

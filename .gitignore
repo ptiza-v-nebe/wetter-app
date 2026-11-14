@@ -1,0 +1,9 @@
+# Python-Umgebung (wird von uv automatisch neu erstellt)
+.venv/
+
+# Python-Cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
